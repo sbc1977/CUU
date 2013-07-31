@@ -6,10 +6,10 @@
         id        = "uk.co.creditunionupdate"
         version   = "1.0.3">
 
-    <name>Credit Union Update</name>
+    <name>CUU</name>
 
     <description>
-        Bringing you the latest UK Credit Union news and information.
+        Description.
     </description>
 
     <author href="http://www.alexandersloan.co.uk" email="development@alexandersloan.co.uk">
